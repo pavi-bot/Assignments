@@ -1,6 +1,6 @@
 package assignments;
 
-public class Employees {
+public class Assignment3_Employees {
 
 	
 		String Emp1 = "Bharath";
